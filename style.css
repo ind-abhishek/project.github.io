@@ -169,8 +169,8 @@ html {
 }
 
 .mobile-nav-icon {
-    width: 5rem;
-    height: 5rem;
+    width: 60px;
+    height: 60px;
     color: #6FEDD6;
 }
 
@@ -237,7 +237,7 @@ html {
 
     .navbar-link:hover,
     .navbar-link:active {
-        color: #2ecc71;
+        color: #6FEDD6;
     }
 
     .navbar-list .btn {
